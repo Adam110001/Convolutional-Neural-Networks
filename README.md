@@ -1,4 +1,4 @@
-# Convolutional-Neural-Networks
+# Convolutional Neural Networks
 
 Neural Networks are based around human brains and neurons. However, due to the human brain's complexity, it takes lots of money and time to innovate and understand how our brain works. Thus, "more recently, there has been some major initiatives with unprecedented funding, that emphasise the drive, to accelerate research into unlocking the mysteries of human brain's unique functioning." (Subana, S., & Sandhya, S. (2016)) Consequently, this means that we are making more progress in computers and neural technology with every scientific progress. Overall, the writer will compare CNN to other algorithms in this section and define why it was used in my application. Additionally, talking more about ANN.
 
