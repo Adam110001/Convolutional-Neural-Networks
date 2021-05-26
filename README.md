@@ -16,11 +16,15 @@ In my application, CNN will play a role in a supervised machine learning algorit
 
 ## InceptionV3
 
+<img align="right" width="357" alt="Screenshot 2021-05-26 at 20 57 32" src="https://user-images.githubusercontent.com/21690621/119723109-003e7680-be65-11eb-92a7-ce0aa09e4267.png">
+
 InceptionV3 is convolutional neural network model that consist of 48 layers. It adds two layers label smoothing and factorized 7x7, which hand in hand improve the overall classification by using label smoothing, which prevents the network from becoming over-confident. This is shown in figure 3.3.2.3.
 
 ## MobileNetV2
 
-MobileNetV2 is a pretrained convolutional neural network which is 32 layers deep “followed by 19 residual bottleneck layers,” (Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L.-C. (2019)) and ideal for mobile applications, since the model was built with mobile applications in mind. Bottleneck is layer added to the standard CNN layers, which are depicted in figure 2.1 and further figure 3.3.2.1 shows where the bottleneck layer is placed within the standard CNN layers. Bottleneck layers plays a key role to reduce dimensionality. “Dimensionality reduction 34 refers to techniques for reducing the number of input variables in training data.” (Brownlee, J. (2020, May 5)) Thus, having smaller number of variables allows for the algorithm to generalise well yet still keeping the essence of the data, since “high-dimensionality might mean hundreds, thousands, or even millions of input variables.” (Brownlee, J. (2020, May 5))
+MobileNetV2 is a pretrained convolutional neural network which is 32 layers deep “followed by 19 residual bottleneck layers,” (Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L.-C. (2019)) and ideal for mobile applications, since the model was built with mobile applications in mind. Bottleneck is layer added to the standard CNN layers, which are depicted in figure 2.1 and further figure 3.3.2.1 shows where the bottleneck layer is placed within the standard CNN layers. Bottleneck layers plays a key role to reduce dimensionality. “Dimensionality reduction 34 refers to techniques for reducing the number of input variables in training data.” (Brownlee, J. (2020, May 5)) Thus, having smaller number of variables allows for the algorithm to generalise well yet still keeping the essence of the data, since “high-dimensionality might mean hundreds, thousands, or even millions of input variables.” (Brownlee, J. (2020, May 5)
+
+<img align="right" width="373" alt="Screenshot 2021-05-26 at 20 56 53" src="https://user-images.githubusercontent.com/21690621/119723165-10565600-be65-11eb-9ea8-5f74aef12ea1.png">
 
 ## Convolutional Neural Networks
 
