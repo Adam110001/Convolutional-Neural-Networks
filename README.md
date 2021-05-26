@@ -12,6 +12,8 @@ In contrast, another object far from the lane can be ignored. Nevertheless, it c
 
 In my application, CNN will play a role in a supervised machine learning algorithm, making it a lot easier as my application recognises animals from pre-existing data provided to the system. Therefore, the CNN algorithm does not need any unique algorithms explicitly created for the classification since supervised machine learning algorithms are already classified in datasets. Once the dataset is provided developer does not need to write any additional code since CNN can do all the classification itself. Overall, Convolution plays a crucial part in the algorithm. It helps the algorithm be better than other neural networks since it does not need any order in the input, which is key to fast and responsive applications that will gather their inputs from real-life. However, even though the support vector machine algorithm is also a supervised machine algorithm, it may be used, as it would be nice to test that two algorithm side by side.
 
+<img width="367" alt="Screenshot 2021-05-26 at 20 50 26" src="https://user-images.githubusercontent.com/21690621/119722298-11d34e80-be64-11eb-8263-7d5ca113960d.png">
+
 ## InceptionV3
 
 ## MobileNetV2
